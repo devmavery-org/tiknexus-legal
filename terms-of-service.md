@@ -18,7 +18,7 @@ TikNexus actúa únicamente como un cliente que interactúa con la API oficial d
 
 Nuestra arquitectura está diseñada con la privacidad como pilar fundamental, combinando el almacenamiento local seguro con el procesamiento inteligente en la nube.
 
-3.1. Almacenamiento 100% Local (Sus Datos Personales)
+*3.1. Almacenamiento 100% Local (Sus Datos Personales)*
 
 Los siguientes datos de su cuenta se descargan y almacenan exclusiva y permanentemente en la base de datos local de su dispositivo (tiknexus_db.sqlite). Estos datos nunca abandonan su dispositivo:
 
@@ -26,7 +26,7 @@ Tokens de Autenticación: Sus tokens de acceso y actualización de TikTok (AuthT
 
 Datos de Video: La lista completa de sus videos sincronizados, incluyendo URL de miniaturas, recuentos de vistas, "me gusta", comentarios y compartidos (UserVideos).
 
-3.2. Procesamiento de IA en la Nube (Datos de Rendimiento)
+*3.2. Procesamiento de IA en la Nube (Datos de Rendimiento)*
 
 Para proporcionar las funciones avanzadas de recomendación de IA (como la "Idea del Día", el análisis de video individual y las recomendaciones de pantalla), la App envía datos de rendimiento anonimizados y no identificables a nuestros servicios seguros en la nube (Google Cloud Functions).
 
