@@ -1,4 +1,4 @@
-**Términos y Condiciones de TikNexus**
+#Términos y Condiciones de TikNexus
 
 Fecha de última actualización: 17 de noviembre de 2025
 
