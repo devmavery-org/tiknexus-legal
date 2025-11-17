@@ -1,20 +1,20 @@
-Términos y Condiciones de TikNexus
+**Términos y Condiciones de TikNexus**
 
 Fecha de última actualización: 17 de noviembre de 2025
 
 Bienvenido a TikNexus ("la App", "nosotros"). Al descargar, instalar o utilizar nuestra aplicación móvil, usted ("el Usuario") acepta estar sujeto a los siguientes Términos y Condiciones ("Términos").
 
-1. Descripción del Servicio
+**1. Descripción del Servicio**
 
 TikNexus es una aplicación móvil diseñada para ayudar a los creadores de contenido de TikTok a analizar su rendimiento y obtener ideas estratégicas. El servicio requiere una conexión a su cuenta de TikTok para descargar las métricas de sus videos y proporcionar análisis y recomendaciones generadas por inteligencia artificial (IA).
 
-2. Conexión a TikTok y Fuente de Datos
+**2. Conexión a TikTok y Fuente de Datos**
 
 Para utilizar la App, usted debe autorizar a TikNexus a acceder a su cuenta de TikTok a través del SDK oficial de TikTok. Los permisos solicitados se limitan a userInfoBasic (para verificar su cuenta) y videoList (para acceder a la lista de sus videos públicos y sus métricas).
 
 TikNexus actúa únicamente como un cliente que interactúa con la API oficial de TikTok. No estamos afiliados, asociados, autorizados, respaldados ni conectados de ninguna manera oficial con TikTok Inc.
 
-3. Arquitectura de Datos y Privacidad
+**3. Arquitectura de Datos y Privacidad**
 
 Nuestra arquitectura está diseñada con la privacidad como pilar fundamental, combinando el almacenamiento local seguro con el procesamiento inteligente en la nube.
 
@@ -42,7 +42,7 @@ Promedios de rendimiento de su cuenta.
 
 Nunca enviamos sus tokens de autenticación, información de perfil de usuario ni archivos de video a nuestros servidores de IA. El único propósito de enviar estos datos de rendimiento es para que nuestros modelos de IA puedan generar los valiosos insights que se le devuelven y se almacenan en su caché local.
 
-4. Control del Usuario sobre sus Datos
+**4. Control del Usuario sobre sus Datos**
 
 Usted mantiene el control total sobre sus datos de las siguientes maneras:
 
@@ -54,20 +54,20 @@ La sincronización inicial de videos requiere una conexión Wi-Fi para proteger 
 
 Usted puede deshabilitar el uso de datos móviles para las funciones de IA en cualquier momento desde el menú de "Configuración".
 
-5. Uso Aceptable
+**5. Uso Aceptable**
 
 Usted acepta no utilizar la App para ningún propósito ilegal o no autorizado. Se prohíbe intentar realizar ingeniería inversa, descompilar la App, interferir con nuestros servicios en la nube o utilizar la App de cualquier manera que pueda dañar, deshabilitar o sobrecargar nuestros sistemas.
 
-6. Limitación de Responsabilidad
+**6. Limitación de Responsabilidad**
 
 La App se proporciona "tal cual". Si bien nos esforzamos por proporcionar análisis precisos y útiles, las recomendaciones generadas por la IA son sugerencias y no garantizan el éxito, el crecimiento de seguidores ni la viralidad del contenido.
 
 TikNexus no será responsable de ninguna pérdida de datos, interrupción del servicio (incluidas las fallas de la API de TikTok) o cualquier daño directo o indirecto que surja del uso o la incapacidad de usar la App.
 
-7. Modificaciones a los Términos
+**7. Modificaciones a los Términos**
 
 Nos reservamos el derecho de modificar estos Términos en cualquier momento. La fecha de "última actualización" en la parte superior de este documento indicará cuándo se realizaron los últimos cambios. Su uso continuado de la App después de cualquier modificación constituye su aceptación de los nuevos Términos.
 
-8. Contacto
+**8. Contacto**
 
 Si tiene alguna pregunta sobre estos Términos, próximamente tendremos línea de comunicación vía soporte.
