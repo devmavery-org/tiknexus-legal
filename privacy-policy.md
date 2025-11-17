@@ -72,4 +72,4 @@ Podemos actualizar esta Política de Privacidad periódicamente. Le notificaremo
 
 **6. Contacto**
 
-Si tiene alguna pregunta sobre esta Política de Privacidad, por favor contáctenos en: [Tu Email de Soporte, ej: privacidad@tiknexus.com]
+Si tiene alguna pregunta sobre esta Política, próximamente tendremos línea de comunicación vía soporte.
